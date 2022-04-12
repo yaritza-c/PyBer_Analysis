@@ -9,6 +9,8 @@ The purpose of this analysis is to obtain enough data on how much money the comp
 
 After analyzing all the data, I concluded the area most utilized in the months of January to May of 2019 is the urban areas. The rural areas had the most expensive fare for each ride but had the least amount utilized. And the suburban area was right in-between both urban and rural results.
 
+https://github.com/yaritza-c/PyBer_Analysis/blob/main/analysis/Fig8.png
+
 
 
 ##Summary
